@@ -9,6 +9,6 @@ def check(s1, s2):
 
 
 # driver code
-s1 = "Mary"
-s2 = "Army"
+s1 = "Mary Army"
+s2 = "Mary Army"
 check(s1, s2)
